@@ -1,0 +1,5 @@
+
+project_id = "qyoruewujwwgfgewycdn"
+
+[functions.process-donation]
+verify_jwt = false
